@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #f1e05a;width: 59.433%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 19.098%;" class="progress-item"></span><span style="background-color: #e34c26;width: 12.586%;" class="progress-item"></span><span style="background-color: #000080;width: 3.546%;" class="progress-item"></span><span style="background-color: #178600;width: 2.063%;" class="progress-item"></span><span style="background-color: #563d7c;width: 1.689%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.690%;" class="progress-item"></span><span style="background-color: #555555;width: 0.619%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.153%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.082%;" class="progress-item"></span><span style="background-color: #3178c6;width: 0.024%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.010%;" class="progress-item"></span><span style="background-color: #DA3434;width: 0.008%;" class="progress-item"></span><span style="background-color: #3B2F63;width: 0.001%;" class="progress-item"></span>
+<span style="background-color: #f1e05a;width: 59.427%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 19.096%;" class="progress-item"></span><span style="background-color: #e34c26;width: 12.584%;" class="progress-item"></span><span style="background-color: #000080;width: 3.545%;" class="progress-item"></span><span style="background-color: #178600;width: 2.063%;" class="progress-item"></span><span style="background-color: #563d7c;width: 1.689%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.690%;" class="progress-item"></span><span style="background-color: #555555;width: 0.619%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.153%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.082%;" class="progress-item"></span><span style="background-color: #3178c6;width: 0.024%;" class="progress-item"></span><span style="background-color: #012456;width: 0.011%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.010%;" class="progress-item"></span><span style="background-color: #DA3434;width: 0.008%;" class="progress-item"></span><span style="background-color: #3B2F63;width: 0.001%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -162,7 +162,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">HTML</span>
-<span class="percent">12.59%</span>
+<span class="percent">12.58%</span>
 </li>
 
 
@@ -239,6 +239,15 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 
 
 <li style="animation-delay: 1650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#012456;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">PowerShell</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 1800ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#b07219;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
@@ -247,7 +256,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 </li>
 
 
-<li style="animation-delay: 1800ms;">
+<li style="animation-delay: 1950ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#DA3434;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
@@ -256,7 +265,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 </li>
 
 
-<li style="animation-delay: 1950ms;">
+<li style="animation-delay: 2100ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3B2F63;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
